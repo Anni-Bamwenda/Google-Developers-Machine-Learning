@@ -11,9 +11,9 @@ touch inedx.html
     <h1 style="color:purple;text-align:center;">Welcome to My Webpage!</h1>
     <h2>Personal Background</h2>
     Anni was born and raised in Tanzania.
-    Image of Tanzania is required xoxo.
-    Anni moved to the U.S in 2018 to study Applied Math and Comp Sci in College.
-    Here is a periodic chart of Anni's recent educational journey.
+    <p>Image of Tanzania is required xoxo.</p>
+    <p>Anni moved to the U.S in 2018 to study Applied Math and Comp Sci in College.</p>
+    <p>Here is a periodic chart of Anni's recent educational journey.</p>
     <table>
      <tr>
        <th>School Name</th>
