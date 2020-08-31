@@ -9,6 +9,11 @@ touch inedx.html
   </head>
   <body>
     <h1 style="color:purple;text-align:center;">Welcome to My Webpage!</h1>
+    <style>
+      h2 {
+          color:blue;
+      }
+    </style>
     <h2>Personal Background</h2>
     Anni was born and raised in Tanzania.
     <p>Image of Tanzania is required xoxo.</p>
