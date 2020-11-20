@@ -26,17 +26,17 @@ touch inedx.html
        <th>Timeline</th>
      <tr>
        <td>St. Joseph Cathedral High School, Tanzania</td>
-       <td>High School</td>
+       <td>High School Diploma, Dar Es Salaam, Tanzania</td>
        <td>2015-2017</td>
     </tr>
     <tr>
       <td>Contra Costa College</td>
-      <td>Associate's Degree in Mathematics, California</td>
+      <td>Associate's Degree in Mathematics,San Pablo, California</td>
       <td>2018-2020</td>
     </tr>
     <tr>
       <td>Whittier College</td>
-      <td>Bachelor's in Applied Math w/ a Minor in Comp Sci, California</td>
+      <td>Bachelor's in Intergrated Mathematics and Computer Science, Whittier, California</td>
       <td>2020-2022</td>
     </tr>
     </table> 
