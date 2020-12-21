@@ -14,6 +14,7 @@ touch inedx.html
           color:blue;
       }
     </style>
+    <h2>Welcome to my curated space. Please feel free to look around my webpage</h2>
     <h2>Personal Background</h2>
     Anni was born and raised in Tanzania.
     <p>Image of Tanzania is required xoxo.</p>
@@ -55,5 +56,10 @@ touch inedx.html
       <li>Working Out</li>
       <li>Yoga</li>
     </ul>
+    <p> Career pages Links.</p>
+    <a href = "https://app.joinhandshake.com/users/27520378">Handshake</a>
+    <p>
+    <a href = "https://www.linkedin.com/in/anni-bamwenda-402005192/">LinkedIn</a>
+    </p>
   </body> 
 </html>
