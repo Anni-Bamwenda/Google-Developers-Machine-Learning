@@ -16,7 +16,6 @@ touch index.html
     <h2>Welcome to my curated space. Please feel free to look around</h2>
     <h2>Personal Background</h2>
     Anni was born and raised in Tanzania and moved to the US for College. She aspires to be a data scientist once she graduates.
-    <p>Image of Tanzania is required xoxo.</p>
     <p>Anni moved to the U.S in 2018 to study Applied Math and Comp Sci in College.</p>
     <p>Here is a periodic chart of Anni's recent educational journey.</p>
     <table>
