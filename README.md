@@ -23,16 +23,17 @@ touch index.html
        <th>School Name</th>
        <th>Educational Level</th>
        <th>Timeline</th>
-    <tr>
+      <tr>
+        <td>Whittier College</td>
+        <td>Bachelor's in Intergrated Mathematics and Computer Science, Whittier, California</td>
+        <td>2020-2022</td>
+      </tr>
+      <tr>
       <td>Contra Costa College</td>
       <td>Associate's Degree in Mathematics,San Pablo, California</td>
       <td>2018-2020</td>
     </tr>
-    <tr>
-      <td>Whittier College</td>
-      <td>Bachelor's in Intergrated Mathematics and Computer Science, Whittier, California</td>
-      <td>2020-2022</td>
-    </tr>
+    
     </table> 
     <h3>Personal Goals</h3>
     <ul>
