@@ -8,7 +8,6 @@ touch inedx.html
     <title>Anni Bamwenda</title>
   </head>
   <body>
-    <h1 style="color:purple;text-align:center;">Welcome to My Github Acc!</h1>
     <style>
       h2 {
           color:blue;
