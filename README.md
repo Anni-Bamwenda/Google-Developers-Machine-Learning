@@ -1,5 +1,5 @@
 #Introduction
-touch inedx.html
+touch index.html
 
 <!DOCTYPE html>
 
