@@ -5,7 +5,7 @@ touch index.html
 
 <html>
   <head>
-    <title>Anni Bamwenda</title>
+   
   </head>
   <body>
     <style>
