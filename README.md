@@ -32,7 +32,8 @@ touch index.html
       <td>Contra Costa College</td>
       <td>Associate's Degree in Mathematics,San Pablo, California</td>
       <td>2018-2020</td>
-    </tr>
+      </tr>  
+     </tr>
     
     </table> 
     <h3>Personal Goals</h3>
